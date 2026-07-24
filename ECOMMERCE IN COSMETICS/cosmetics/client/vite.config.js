@@ -7,7 +7,7 @@ export default defineConfig({
     port: 3000,
     proxy: {
       '/api': {
-        target: 'https://mern-stack-project-gbqb.onrender.com', //http://localhost:5000
+        target: 'http://localhost:5000', //https://mern-stack-project-gbqb.onrender.com
         changeOrigin: true
       }
     }
