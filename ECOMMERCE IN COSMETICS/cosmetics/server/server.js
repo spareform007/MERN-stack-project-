@@ -1,4 +1,4 @@
-
+/*
 import express from 'express';
 import http from 'http';
 import { Server } from 'socket.io';
@@ -100,8 +100,8 @@ server.listen(PORT, () => {
   console.log(` Socket.IO Live Chat Server Active`);
   console.log(`====================================================`);
 });
+*/
 
-/*
 import express from 'express';
 import http from 'http';
 import { Server } from 'socket.io';
@@ -215,4 +215,4 @@ server.listen(PORT, () => {
   console.log(` Socket.IO Live Chat Server Active`);
   console.log(`====================================================`);
 });
-*/
+
